@@ -1,4 +1,4 @@
-# 100% SDN-Controlled VXLAN Overlay Fabric
+# SDN-Controlled VXLAN Overlay Fabric
 
 A production-grade, software-defined virtual extensible LAN (VXLAN) overlay network architecture implemented using **Ryu OpenFlow 1.3** (Control Plane), **Open vSwitch** (Data Plane), and **Mininet** (Topology Emulation). 
 
